@@ -1,7 +1,7 @@
 public class Book {
-    private int id;
-    private String isbn;
-    private String title;
+    private final int id;
+    private final String isbn;
+    private final String title;
     private boolean isCheckedOut;
     private String checkedOutTo;
 
