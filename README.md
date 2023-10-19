@@ -1,5 +1,5 @@
 # neighborhood-library
-A tool to help check in/out books from a library! The most interesting part for me was when I first set up the setters & getters
+A tool to help check in/out books from a library! The most interesting part for me was when I first set up the setters & getters, it was rewarding to see the LibraryApp pull the variables I set up.
 ![welcome-screen](https://github.com/Luis3605/neighborhood-library/assets/146870909/9f016dac-cd01-4e21-aa79-12e06f449556)
 This is the welcome screen.
 ![Book-Availability](https://github.com/Luis3605/neighborhood-library/assets/146870909/85b939bc-6ccd-4b48-a911-35555ff1c4f0)
