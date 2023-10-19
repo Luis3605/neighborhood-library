@@ -6,3 +6,5 @@ This is the welcome screen.
 This is where you see the library's availability.
 ![Check-out](https://github.com/Luis3605/neighborhood-library/assets/146870909/6f73aea6-4d57-4f3d-b17c-33869fafcf05)
 This is an example of checking a book out.
+Here are some errors, and how the app responds.![BookNotFound](https://github.com/Luis3605/neighborhood-library/assets/146870909/0fd72b0b-2b04-420a-85b8-883cd469cac9)
+![InvalidInput](https://github.com/Luis3605/neighborhood-library/assets/146870909/d400795a-e4f7-419b-9464-ce0c1743193e)
